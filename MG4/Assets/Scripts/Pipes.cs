@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Pipes : MonoBehaviour
 {
+    [SerializeField] float _speed;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +14,6 @@ public class Pipes : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        transform.Translate(Vector2.left * _speed *  Time.deltaTime);
     }
 }
