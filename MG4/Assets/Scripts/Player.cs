@@ -50,7 +50,7 @@ public class Player : MonoBehaviour
         if (_timer <= 0 && !_end)
         {
             
-            Vector2 spawnLocation = new Vector2(12, Random.Range(-1.5f, 2f));
+            Vector2 spawnLocation = new Vector2(12, Random.Range(-1.3f, 2f));
             Instantiate(_prefab, spawnLocation, Quaternion.identity);
             _timer = 5;
         }
