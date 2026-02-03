@@ -5,5 +5,5 @@ The model-view-controller pattern is utilized through separating logic and aesth
 ## Open-Source Assets
 If you added any other assets, list them here!
 - [Brackey's Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) - sound effects
-- [Bird Sprites with Animations](https://carysaurus.itch.io/bird-sprites) - bird sprites
+- [Bird Sprites with Animations](https://carysaurus.itch.io/bird-sprites) - crow sprites
 - [Industrial Pipe Platformer Tileset](https://carysaurus.itch.io/bird-sprites) - pipe sprites
